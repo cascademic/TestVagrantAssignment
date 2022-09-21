@@ -10,7 +10,7 @@ Open this project in IDE and can run via different ways
 
 
 2.) open terminal and go to the \TestVagrant_assignment assignment folder.
-run the command 
+run the command- mvn test
 
 
 report will be save in extents-Reports folder and will be override always. 

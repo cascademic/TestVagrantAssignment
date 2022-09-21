@@ -1,0 +1,42 @@
+[INFO ] 2022-09-21 09:22:00.944 [main] Log - I am in onStart method Backend
+[INFO ] 2022-09-21 09:22:00.996 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 09:22:01.205 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 09:22:01.215 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 09:22:01.219 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is succeed.
+[INFO ] 2022-09-21 09:22:01.221 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 09:22:01.256 [main] Log - I am in onFinish method Backend
+[INFO ] 2022-09-21 09:27:47.544 [main] Log - I am in onStart method Backend
+[INFO ] 2022-09-21 09:27:47.603 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 09:27:47.775 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 09:27:47.784 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 09:27:47.787 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is succeed.
+[INFO ] 2022-09-21 09:27:47.789 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 09:27:47.816 [main] Log - I am in onFinish method Backend
+[INFO ] 2022-09-21 09:32:54.037 [main] Log - I am in onStart method Backend
+[INFO ] 2022-09-21 09:32:54.085 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 09:32:54.265 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 09:32:54.272 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 09:32:54.276 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is failed.
+[INFO ] 2022-09-21 09:32:54.282 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 09:32:54.314 [main] Log - I am in onFinish method Backend
+[INFO ] 2022-09-21 10:46:40.329 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-09-21 10:46:40.380 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 10:46:40.547 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 10:46:40.549 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 10:46:40.554 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is succeed.
+[INFO ] 2022-09-21 10:46:40.556 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 10:46:40.590 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-09-21 11:02:58.371 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-09-21 11:02:58.418 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 11:02:58.714 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 11:02:58.717 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 11:02:58.720 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is succeed.
+[INFO ] 2022-09-21 11:02:58.723 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 11:02:58.761 [main] Log - Test Scripts Ends Backend
+[INFO ] 2022-09-21 11:26:26.452 [main] Log - Test Scripts Start Backend
+[INFO ] 2022-09-21 11:26:26.545 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is starting.
+[INFO ] 2022-09-21 11:26:26.700 [TestNG-test=Backend-1] Log - validateOneWicketKeeper test is succeed.
+[INFO ] 2022-09-21 11:26:26.703 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is starting.
+[INFO ] 2022-09-21 11:26:26.706 [TestNG-test=Backend-1] Log - validateOnlyForeignMembers test is succeed.
+[INFO ] 2022-09-21 11:26:26.709 [TestNG-test=Backend-1] Log - Tests are ending!
+[INFO ] 2022-09-21 11:26:26.738 [main] Log - Test Scripts Ends Backend
